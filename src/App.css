@@ -1,0 +1,36 @@
+
+.container{
+  display: flex;
+  background-color: darkcyan;
+  margin: 10px;
+}
+
+.info{
+  padding-left: 25px;
+}
+
+.image{
+  display: flex;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.image button{
+  align-items: center;
+}
+
+.image-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px;
+}
+
+.button{
+  background-color: lightblue;
+  color:darkslategrey;
+  padding: 15px, 32px;
+  text-align: center;
+  font-size: 15px;
+}
+
